@@ -1,0 +1,14 @@
+TEXT SUMMARIZATION TOOL - CODETECH INTERNSHIP
+=================================================================
+
+ORIGINAL TEXT:
+-----------------------------------------------------------------
+Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to the natural intelligence displayed by animals including humans. AI research has been defined as the field of study of intelligent agents, which refers to any system that perceives its environment and takes actions that maximize its chance of achieving its goals. The term artificial intelligence had previously been used to describe machines that mimic and display human cognitive skills associated with the human mind, such as learning and problem-solving. This definition has since been rejected by major AI researchers who now describe AI in terms of rationality and acting rationally, which does not limit how intelligence can be articulated. AI applications include advanced web search engines, recommendation systems used by YouTube, Amazon and Netflix, understanding human speech such as Siri and Alexa, self-driving cars such as Waymo, generative or creative tools such as ChatGPT and AI art, automated decision-making, and competing at the highest level in strategic game systems, such as chess and Go. As machines become increasingly capable, tasks considered to require intelligence are often removed from the definition of AI, a phenomenon known as the AI effect. Modern machine learning techniques are the core of many modern AI systems, including the most cutting-edge systems in deep learning and reinforcement learning. The field was founded on the assumption that human intelligence can be so precisely described that a machine can be made to simulate it. This raises philosophical arguments about the mind and the ethics of creating artificial beings endowed with human-like intelligence.
+
+Sentences: 9  |  Words: 255
+
+SUMMARY:
+-----------------------------------------------------------------
+Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to the natural intelligence displayed by animals including humans. Modern machine learning techniques are the core of many modern AI systems, including the most cutting-edge systems in deep learning and reinforcement learning.
+
+Sentences: 2  |  Words: 42
