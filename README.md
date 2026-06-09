@@ -204,4 +204,6 @@ like ModuleNotFoundError and UnicodeEncodeError taught me how to read error mess
 and find solutions which is a really important skill for any developer.
 
 Overall this internship was a great learning experience and I feel much more confident
-working with AI and Python projects now than I did when I started.    
+working with AI and Python projects now than I did when I started.   
+
+*OUTPUT* : https://github.com/shireensana/CodeTech-Internship/issues/1#issue-4625824030
